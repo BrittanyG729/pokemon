@@ -21,5 +21,6 @@ module.exports = Show
 
 /*
     git add .
-    git commit -m ""
+    git commit -m "added show and index routes"
+    git push origin main
 */
